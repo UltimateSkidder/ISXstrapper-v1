@@ -2,7 +2,7 @@
   "version": "0.9",
   "downloadLink": "https://raw.githubusercontent.com/UltimateSkidder/RLM-V-0.8/main/RML%20V%200.8.zip",
   "updateNotes": "Version 0.9 Release\n- Stabilized Injector\n- 99% UNC and 100% SUNC",
-  "status": "update maintenance",
-  "detectionStatus": "DETECTED",
-  "banwaveRisk": "MODERATE"
+  "status": "DEPRECATED",
+  "detectionStatus": "UNDETECTED",
+  "banwaveRisk": "CRITICAL"
 }
